@@ -6,9 +6,9 @@ This is a Jekyll website template designed for Pre Fellowship Fellows. During th
 
 1. Use the Template button.
 2. Update `_config.yml` to contain your information.
-    1. Change `url` to be what your Github Pages will be (the name of the repository)
+    1. Change `url` to the URL you'll be hosting it at
     2. Make sure it has the /
-3. Go to the repository settings and turn on GitHub Pages
+3. Use something like Netlify or GitHub Pages to deploy (note, this only works on username.github.io, not username.github.io/repo-name)
 
 ## Add your portfolio
 
