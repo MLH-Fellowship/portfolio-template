@@ -49,7 +49,7 @@ Education example.
 Top of post markdown file post.
 ```
 ---
-title: Sprint 1 Project
+title: Project
 layout: page
 ---
 ```
@@ -60,7 +60,7 @@ layout: page
 - title: Machine Learning Project
   event: MLH Fellowship Pre Fellowship - Batch 3.5
   date: Summer 2021
-  page-name: cycle
+  page-name: project
 ```
 
 ## Development
