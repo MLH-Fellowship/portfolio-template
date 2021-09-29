@@ -1,6 +1,6 @@
 # Portfolio Template
 
-This is a Jekyll website template designed for Pre Fellowship Fellows. During the Pre Fellowship, you'll build a project
+This is a Jekyll website template designed for Prep Fellows.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/97877b3e-9f36-4939-a24c-0b622f923d50/deploy-status)](https://app.netlify.com/sites/mlh-fellowship-portfolio/deploys)
 
@@ -19,14 +19,14 @@ Head to `_data` and fill out either `projects.yml`, `experience.yml` and `educat
 
 Project example.
 ```yaml
-- title: Machine Learning Project
-  event: MLH Fellowship Pre Fellowship - Batch 3.5
-  date: Fall 2020
+- title: Online Shopping Application
+  event: MLH Prep - Batch 4.5
+  date: Fall 2021
 ```
 
 Experience example.
 ```yaml
-- role: Pre Fellowship Fellow
+- role: MLH Prep Fellow
   company: MLH Fellowship
   dates: Summer 2021
   logo: fellowship.svg
@@ -34,9 +34,9 @@ Experience example.
 
 Education example.
 ```yaml
-- course: Pre Fellowship Fellow
+- course: Prep Fellow
   institute: MLH Fellowship
-  dates: Summer 2021
+  dates: Fall 2021
   logo: fellowship.svg
 ```
 ## Add project posts
@@ -57,8 +57,8 @@ layout: page
 `projects.yml` with the `page-name` field.
 
 ```yaml
-- title: Machine Learning Project
-  event: MLH Fellowship Pre Fellowship - Batch 3.5
+- title: Online Shopping Application
+  event: MLH Prep - Batch 4.5
   date: Summer 2021
   page-name: project
 ```
