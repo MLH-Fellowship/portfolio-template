@@ -1,0 +1,15 @@
+- name: Will
+  img: logo.jpg
+  location: London, UK
+
+- name: Amanda
+  img: amanda.jpg
+  location: New York City, USA
+
+- name: Aaron
+  img: aaron.jpg
+  location: London, UK
+
+- name: Swift
+  img: swift.jpg
+  location: New York City, USA
