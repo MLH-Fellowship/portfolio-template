@@ -34,3 +34,20 @@
     padding-top: 0px;
     padding-right: 0px;
 }
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar.bg-dark {
+    background-color: #133667 !important;
+    /* Your custom color */
+}
+
+.navbar .nav-link {
+    /* Add a linear gradient texture */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
