@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.2.2"
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
